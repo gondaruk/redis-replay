@@ -1,0 +1,9 @@
+debug/
+target/
+.idea
+*.iws
+out/
+.idea_modules/
+.run/
+.DS_Store
+.local
